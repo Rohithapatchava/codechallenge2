@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\bin\Debug\codechallenge2.exe.config
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\bin\Debug\codechallenge2.exe
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\bin\Debug\codechallenge2.pdb
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\obj\Debug\codechallenge2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\obj\Debug\codechallenge2.exe
+C:\Users\Admin\source\repos\codechallenge2\codechallenge2\obj\Debug\codechallenge2.pdb
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\bin\Debug\codechallenge2.exe.config
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\bin\Debug\codechallenge2.exe
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\bin\Debug\codechallenge2.pdb
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\obj\Debug\codechallenge2.csprojAssemblyReference.cache
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\obj\Debug\codechallenge2.exe
+D:\Rohitha\c sharp\codechallenge2\codechallenge2\obj\Debug\codechallenge2.pdb
